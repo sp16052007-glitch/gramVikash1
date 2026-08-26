@@ -1,0 +1,12 @@
+{
+  "name": "GramVikas",
+  "description": "AI-powered rural citizen grievance, voice reporting, and community petition platform for India.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
